@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-community
+flask
+flask-cors
+gevent
+azure-cognitiveservices-speech
+pypdf
+faiss-cpu
